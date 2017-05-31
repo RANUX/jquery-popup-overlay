@@ -1,6 +1,6 @@
 Package.describe({
   name: 'brwn:jquery-popup-overlay',
-  version: '1.0.0',
+  version: '1.6.0',
   // Brief, one-line summary of the package.
   summary: 'jquery-popup-overlay wrapper for Meteor.',
   // URL to the Git repository containing the source code for this package.
